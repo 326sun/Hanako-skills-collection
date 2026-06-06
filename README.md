@@ -1,7 +1,11 @@
 # Hanako Skills Collection
 
-为 [Hanako](https://github.com/liliMozi/openhanako) 精选的 32 个 skills，覆盖学术写作、数据处理、
-文档操作、深度推理、开发工具与安全，外加一套自我进化管道。
+Hanako 生态中最大的开源 skills 集合——32 个即装即用的能力模块，
+覆盖学术写作、数据处理、开发运维、安全审计、办公效率与深度推理。
+每个 skill 都经过实战验证，让 Hanako 从通用助手进化为你的领域专家。
+
+配合 `hanako-runtime-learner` 插件可实现跨会话的自我进化：
+Agent 在使用中自动发现模式、学习偏好、修正错误。
 
 ```
 hanako-skills-collection
