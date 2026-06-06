@@ -1,6 +1,6 @@
 # Hanako Skills Collection
 
-Hanako 生态中最大的开源 skills 集合——32 个即装即用的能力模块，
+Hanako 生态中持续增长的开源 skills 集合——32 个即装即用的能力模块，
 覆盖学术写作、数据处理、开发运维、安全审计、办公效率与深度推理。
 每个 skill 都经过实战验证，让 Hanako 从通用助手进化为你的领域专家。
 
